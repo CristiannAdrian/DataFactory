@@ -1,0 +1,9 @@
+{
+	"name": "ccabrera-datafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "de24b2ff-d14c-4c37-98d6-97b98ce246ef",
+		"tenantId": "9e46a7fd-1587-4473-99d7-bb9e7d9b9cce"
+	}
+}
